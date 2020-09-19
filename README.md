@@ -2,7 +2,7 @@
 Used Flutter which is Google’s open-source UI kit to develop Scrum poker, a gamified technique for estimating, mostly used to estimate effort or relative size of development goals in software development.
 
 Designed in Adobe XD
-![adobexd_design](https://user-images.githubusercontent.com/33556967/93665870-98df5400-fa97-11ea-92a5-f426194ac35f.PNG)
+![adobexd_design](https://user-images.githubusercontent.com/33556967/93665870-98df5400-fa97-11ea-92a5-f426194ac35f.PNG | width=65)
 
 ![1](https://user-images.githubusercontent.com/33556967/93665872-9b41ae00-fa97-11ea-88ce-1879320219a3.jpg)
 ![2](https://user-images.githubusercontent.com/33556967/93665874-9c72db00-fa97-11ea-9ae0-ab8f1a0cad0b.PNG)
